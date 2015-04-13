@@ -28,8 +28,21 @@
 	
 #Versions used: 
               
-Spring Framework	4.1.6.RELEASE
-Java             	1.8 - 64 bit
-Spring sts       	Spring Tool Suite Version: 3.6.4.RELEASE - 64 bit
-Tomcat           	8.0 - 64 bit
-Servlet 	3.1.0
+{| class="wikitable"
+! Spring
+Framework
+! 4.1.6.RELEASE
+|-
+| Java
+| 1.8 - 64 bit
+|-
+| Spring
+sts
+| Spring Tool Suite Version: 3.6.4.RELEASE - 64 bit
+|-
+| Tomcat
+| 8.0 - 64 bit
+|-
+| Servlet
+| 3.1.0
+|}
