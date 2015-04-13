@@ -17,13 +17,13 @@
 	
 #URL's to be used:
 
-	1.     GET http://localhost:8080/spring-rest/foo/1
-	2.     PUT http://localhost:8080/spring-rest/foo/1
+	* GET http://localhost:8080/spring-rest/foo/1
+	* PUT http://localhost:8080/spring-rest/foo/1
 	
 #You can also use CURL also to test:
 
-curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/spring-rest-new/foos/1
-curl -H "Accept: application/xml" -H "Content-Type: application/xml" -X GET http://localhost:8080/spring-rest-new/foos/1
+* curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/spring-rest-new/foos/1
+* curl -H "Accept: application/xml" -H "Content-Type: application/xml" -X GET http://localhost:8080/spring-rest-new/foos/1
 	
 	
 #Versions used: 
