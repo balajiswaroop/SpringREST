@@ -27,6 +27,20 @@ Security : There is protection for the transmitted cedentials, they are merely e
 		3. The authorization method and a space i.e "Basic" is then put before the encoded string.
 	
 	Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+
+#Project Details :
+ The only change here from the previous project is as provided below.
+
+	1. For the basic authentication, Spring provides a simple <http-basic> element to be configured in the <http> element.
+
+	<http use-expressions="true" entry-point-ref="restAuthenticationEntryPoint">
+	        <intercept-url pattern="/api/**" access="isAuthenticated()" />
+	
+	        <sec:http-basic/>
+	    </http>
+
+	2. And the "entry-point-ref" attribute of the <http> element has to be changed to point to the new class extending the 
+BasicAuthenticationEntryPoint class from Spring framework instead of AuthenticationEntryPoint. 
 	
 	
 	
