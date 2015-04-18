@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Apr 18 13:44:09 IST 2015
+org.eclipse.jst.jee.server\:/binary\:F\:\\maven\\repo\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\8.0.20\\tomcat-embed-websocket-8.0.20.jar=D\:\\d\\softwares_64bit\\apache-tomcat-8.0.21-windows-x64\\apache-tomcat-8.0.21\\webapps\\spring-security-rest-basic-authentication\\WEB-INF\\lib\\tomcat-embed-websocket-8.0.20.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\maven\\repo\\org\\springframework\\spring-web\\4.1.6.RELEASE\\spring-web-4.1.6.RELEASE.jar=D\:\\d\\softwares_64bit\\apache-tomcat-8.0.21-windows-x64\\apache-tomcat-8.0.21\\webapps\\spring-security-rest-basic-authentication\\WEB-INF\\lib\\spring-web-4.1.6.RELEASE.jar
+org.eclipse.jst.jee.server\:spring-security-rest-basic-authentication=D\:\\d\\softwares_64bit\\apache-tomcat-8.0.21-windows-x64\\apache-tomcat-8.0.21\\webapps\\spring-security-rest-basic-authentication

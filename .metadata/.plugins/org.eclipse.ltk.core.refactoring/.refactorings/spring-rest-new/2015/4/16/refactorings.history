@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;spring-security-rest-basic-authentication/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;spring-rest-new&apos;&#x0D;&#x0A;- Destination element: &apos;spring-security-rest-basic-authentication/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     spring-rest-new/src/main/java/org.balaji.config&#x0D;&#x0A;     spring-rest-new/src/main/java/org.balaji.web.dto&#x0D;&#x0A;     spring-rest-new/src/main/java/org.balaji.web.controller" description="Copy packages" destination="=spring-security-rest-basic-authentication/src\/main\/java" element1="/src\/main\/java&lt;org.balaji.config" element2="/src\/main\/java&lt;org.balaji.web.dto" element3="/src\/main\/java&lt;org.balaji.web.controller" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1429340363505" version="1.0"/>
+</session>
